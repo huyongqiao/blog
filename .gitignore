@@ -1,0 +1,6 @@
+migrations
+__pycache__
+*.py[cod]
+*.log
+.idea
+.venv
